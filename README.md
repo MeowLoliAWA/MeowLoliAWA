@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 <h2>Neuro将会带着蜂群统治全互联网</h2>
 <a href="https://www.youtube.com/@Neurosama">@Neurosama</a>
 <img src="https://img2.huashi6.com/images/resource/2023/03/27/1h06593832p0.jpg?imageMogr2/quality/75/interlace/1/thumbnail/x700/gravity/Center/crop/700x700/format/jpeg">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=3&id=2542844502&auto=1&height=66"></iframe>
+
