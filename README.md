@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/@Neurosama">@Neurosama</a>
 <img src="https://img2.huashi6.com/images/resource/2023/03/27/1h06593832p0.jpg?imageMogr2/quality/75/interlace/1/thumbnail/x700/gravity/Center/crop/700x700/format/jpeg">
 
+![](./music.svg)
