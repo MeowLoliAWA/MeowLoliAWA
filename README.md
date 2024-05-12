@@ -11,12 +11,12 @@
 
 
 ## Links
-Email: meowloliqwq@gmail.com
-Home: <a href="https://aloli.icu">aloli.icu</a>
-Orcid: <a href="https://orcid.org/0009-0006-0620-5682">Orcid</a>
-X: <a href="https://twitter.com/MeowLoliQWQ">@MeowLoliQWQ</a>
-Facebook: <a href="https://www.facebook.com/meowloliawa/">meowloliawa</a>
-Telegram: <a href="https://t.me/MeowLoliAWA">MeowLoliAWA</a>
+- Email: meowloliqwq@gmail.com
+- Home: <a href="https://aloli.icu">aloli.icu</a>
+- Orcid: <a href="https://orcid.org/0009-0006-0620-5682">Orcid</a>
+- X: <a href="https://twitter.com/MeowLoliQWQ">@MeowLoliQWQ</a>
+- Facebook: <a href="https://www.facebook.com/meowloliawa/">meowloliawa</a>
+- Telegram: <a href="https://t.me/MeowLoliAWA">MeowLoliAWA</a>
 <!---
 MeowLoliAWA/MeowLoliAWA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
