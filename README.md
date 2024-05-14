@@ -8,6 +8,7 @@
 - Grand Theft Auto V
 - Counter-Strike 2
 - Roblox
+- ~~GalGame~~
 
 
 ## Links
